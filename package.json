@@ -1,7 +1,7 @@
 {
   "name": "create-react-ui-lib-demo",
   "description": "Demo library created with create-react-ui-lib",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "type": "module",
   "author": "Mikhail Malyshev <topcatnocap@pm.me>",
   "license": "MIT",
